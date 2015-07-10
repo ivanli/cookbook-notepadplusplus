@@ -1,0 +1,1 @@
+default['notepadplusplus']['package_version'] = :latest
